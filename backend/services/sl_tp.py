@@ -65,4 +65,4 @@ def check_sl_tp(user_id: str) -> list:
                 conn.commit()
         finally:
             conn.close()
-    return triggered
+    return triggered 
