@@ -98,7 +98,7 @@ npm install
 npm run dev
 ```
 
-The app will open at: **http://localhost:5173**
+The app will open at (temporary): **http://localhost:5173**
 
 ---
 
